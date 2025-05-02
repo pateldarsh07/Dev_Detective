@@ -17,7 +17,7 @@
 
 - HTML5
 - CSS3
-- JavaScript (Vanilla)
+- JavaScript
 - GitHub API
 - Netlify (for deployment)
 
